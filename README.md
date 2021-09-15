@@ -52,6 +52,8 @@ while True:
 
 <h2>Links </h2>
 
+[linkd do tutorial que eu usei para fazer esse passo a passo](https://www.youtube.com/watch?v=vZaldeUg6D0)
+
 Links [texto do link] junto (link)
     [texto do link](link)
 
