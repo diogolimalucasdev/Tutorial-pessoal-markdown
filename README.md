@@ -39,6 +39,11 @@ while True:
     print("olá")
 ````
 
+
+````Python
+from sqlalchemy import create_engine
+````
+
 <h2> Texto pre formatado: </h2>
     
     texto aqui, 4 espaços
