@@ -40,9 +40,7 @@ while True:
 ````
 
 
-````Python
-from sqlalchemy import create_engine
-````
+
 
 <h2> Texto pre formatado: </h2>
     
